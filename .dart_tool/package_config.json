@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "flutter_storage_cleaner",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.9.2",
+  "flutterRoot": "file:///Users/shihab/Documents/flutter",
+  "flutterVersion": "3.35.6",
+  "pubCache": "file:///Users/shihab/.pub-cache"
+}

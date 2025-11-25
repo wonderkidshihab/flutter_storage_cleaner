@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "flutter_storage_cleaner"
+  ],
+  "packages": [
+    {
+      "name": "flutter_storage_cleaner",
+      "version": "0.0.1",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
