@@ -1,6 +1,6 @@
 name: flutter_storage_cleaner
 description: A CLI tool to clean multiple Flutter project folders.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/wonderkidshihab/flutter_storage_cleaner
 environment:
   sdk: '>=3.0.0 <4.0.0'

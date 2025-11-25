@@ -1,3 +1,7 @@
+
+![flutter_storage_cleaner](images/banner.png)
+
+
 # Flutter Storage Cleaner
 
 A powerful CLI tool to recursively scan directories and clean multiple Flutter projects at once. Reclaim disk space by removing build artifacts from all your Flutter projects in a single command.
